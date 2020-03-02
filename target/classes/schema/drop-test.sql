@@ -1,0 +1,3 @@
+USE TestDb;
+
+DROP DATABASE TestDb;

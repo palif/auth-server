@@ -1,0 +1,2 @@
+USE KthModbusSecurityDb;
+DROP DATABASE KthModbusSecurityDb;
